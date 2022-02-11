@@ -1,0 +1,139 @@
+{
+    "electronics":[
+        {
+            "id": "1",
+            "title": "LED TV",
+            "brand": "Sony",
+            "price": "$50",
+            "description": " some thing about ",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "134",
+            "title": " smart phone",
+            "brand": "Apple",
+            "price": "$500",
+            "description": " kjjkj some thing about ",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "7234",
+            "title": "frige ",
+            "brand": "LG",
+            "price": "$150",
+            "description": " ljjjjsome thing about ",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "11",
+            "title": "Washing machine",
+            "brand": "LG",
+            "price": "$500",
+            "description": " clining device ",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "222",
+            "title": "Heater",
+            "brand": "Panasonic",
+            "price": "$50",
+            "description": "Keep warm",
+            "imgUrl": ""
+
+
+        }
+    ],
+    "fashion": [
+        {
+            "id": "28834",
+            "title": "jacket",
+            "brand": "Coach",
+            "price": "$570",
+            "description": " some thing about",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "8888",
+            "title": "pans",
+            "brand": "H&M",
+            "price": "$5",
+            "description": " kjjkj some thing about",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "720034",
+            "title": "glow ",
+            "brand": "Michael Kors",
+            "price": "$10",
+            "description": "nice",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "740034",
+            "title": "scarf ",
+            "brand": "Nike",
+            "price": "$30",
+            "description": "good",
+            "imgUrl": ""
+
+
+        }
+    ],
+    "books": [
+        {
+            "id": "7878",
+            "title": "History",
+            "brand": "S studio",
+            "price": "$50",
+            "description": " some thing about description",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "134007",
+            "title": "Math",
+            "brand": "Hary ",
+            "price": "$44",
+            "description": " kjjkj some thing about description",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "727634",
+            "title": "Hary Potter",
+            "brand": "l8 studio",
+            "price": "$200",
+            "description": " ljjjjsome thing about description",
+            "imgUrl": ""
+
+
+        },
+        {
+            "id": "727634",
+            "title": "Immunology",
+            "brand": "MIT",
+            "price": "$200",
+            "description": " ljjjjsome thing about description",
+            "imgUrl": ""
+
+
+        }
+    ]
+    
+}
